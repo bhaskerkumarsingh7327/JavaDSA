@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0146-lru-cache) |
+| [0232-implement-queue-using-stacks](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0232-implement-queue-using-stacks) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -25,8 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0232-implement-queue-using-stacks) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0020-valid-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
