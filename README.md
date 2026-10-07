@@ -22,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0020-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0224-basic-calculator) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0232-implement-queue-using-stacks) |
 ## Bracket Sequences
 |  |
@@ -44,4 +46,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0224-basic-calculator) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
