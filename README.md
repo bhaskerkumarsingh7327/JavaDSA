@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0146-lru-cache) |
+| [0409-longest-palindrome](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0409-longest-palindrome) |
 ## Linked List
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0224-basic-calculator) |
+| [0409-longest-palindrome](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0409-longest-palindrome) |
 ## Stack
 |  |
 | ------- |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0125-valid-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
