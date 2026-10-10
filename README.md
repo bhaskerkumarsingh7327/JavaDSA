@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0224-basic-calculator) |
 | [0409-longest-palindrome](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0409-longest-palindrome) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0224-basic-calculator) |
 ## Recursion
@@ -72,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0409-longest-palindrome) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
