@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0146-lru-cache) |
 | [0409-longest-palindrome](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0224-basic-calculator) |
 | [0409-longest-palindrome](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0409-longest-palindrome) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Dynamic Programming
 |  |
