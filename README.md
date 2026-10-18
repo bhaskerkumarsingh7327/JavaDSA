@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Linked List
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Stack
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0242-valid-anagram) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
