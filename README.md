@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0621-task-scheduler](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0621-task-scheduler) |
+| [0704-binary-search](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0621-task-scheduler) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
