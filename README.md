@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0621-task-scheduler](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0621-task-scheduler) |
+| [0981-time-based-key-value-store](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0981-time-based-key-value-store) |
 ## Linked List
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0146-lru-cache) |
 | [0232-implement-queue-using-stacks](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0232-implement-queue-using-stacks) |
+| [0981-time-based-key-value-store](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0981-time-based-key-value-store) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0981-time-based-key-value-store](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0981-time-based-key-value-store) |
 ## Stack
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0704-binary-search) |
+| [0981-time-based-key-value-store](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0981-time-based-key-value-store) |
 ## Interactive
 |  |
 | ------- |
