@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0621-task-scheduler](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0704-binary-search) |
+| [2054-two-best-non-overlapping-events](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/2054-two-best-non-overlapping-events) |
 ## Math
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0005-longest-palindromic-substring) |
+| [2054-two-best-non-overlapping-events](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/2054-two-best-non-overlapping-events) |
 ## Manacher
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0242-valid-anagram) |
 | [0621-task-scheduler](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0621-task-scheduler) |
+| [2054-two-best-non-overlapping-events](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/2054-two-best-non-overlapping-events) |
 ## Counting
 |  |
 | ------- |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0621-task-scheduler) |
+| [2054-two-best-non-overlapping-events](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/2054-two-best-non-overlapping-events) |
 ## Binary Search
 |  |
 | ------- |
@@ -138,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0704-binary-search) |
 | [0981-time-based-key-value-store](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0981-time-based-key-value-store) |
+| [2054-two-best-non-overlapping-events](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/2054-two-best-non-overlapping-events) |
 ## Interactive
 |  |
 | ------- |
