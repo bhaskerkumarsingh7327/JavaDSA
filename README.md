@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0224-basic-calculator) |
 ## Recursion
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0070-climbing-stairs) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2054-two-best-non-overlapping-events](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/2054-two-best-non-overlapping-events) |
 ## Manacher
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0278-first-bad-version) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
