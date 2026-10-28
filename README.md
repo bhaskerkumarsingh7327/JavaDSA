@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0300-longest-increasing-subsequence) |
 | [0621-task-scheduler](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0704-binary-search) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0300-longest-increasing-subsequence) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2054-two-best-non-overlapping-events](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/2054-two-best-non-overlapping-events) |
 ## Manacher
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0704-binary-search) |
 | [0981-time-based-key-value-store](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0981-time-based-key-value-store) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
@@ -165,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0053-maximum-subarray) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
