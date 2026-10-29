@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0224-basic-calculator) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0300-longest-increasing-subsequence) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
