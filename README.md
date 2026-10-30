@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0242-valid-anagram) |
 | [0621-task-scheduler](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0621-task-scheduler) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
