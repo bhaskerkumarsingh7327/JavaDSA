@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0416-partition-equal-subset-sum) |
 | [0621-task-scheduler](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0704-binary-search) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/1143-longest-common-subsequence) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -205,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0062-unique-paths) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
