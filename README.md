@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0621-task-scheduler) |
 | [0981-time-based-key-value-store](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0981-time-based-key-value-store) |
 ## Linked List
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0981-time-based-key-value-store](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/1143-longest-common-subsequence) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0621-task-scheduler) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
@@ -160,10 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0621-task-scheduler) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0621-task-scheduler) |
 | [2054-two-best-non-overlapping-events](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/2054-two-best-non-overlapping-events) |
 ## Binary Search
@@ -224,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0494-target-sum) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
