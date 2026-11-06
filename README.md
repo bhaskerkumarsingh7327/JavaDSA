@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0494-target-sum) |
 | [0621-task-scheduler](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0621-task-scheduler) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0621-task-scheduler) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -162,12 +165,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0621-task-scheduler) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0621-task-scheduler) |
 | [2054-two-best-non-overlapping-events](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/2054-two-best-non-overlapping-events) |
@@ -194,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0347-top-k-frequent-elements) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -232,5 +238,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0451-sort-characters-by-frequency) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
