@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0146-lru-cache](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0347-top-k-frequent-elements) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0300-longest-increasing-subsequence) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0973-k-closest-points-to-origin) |
 ## Longest Increasing Subsequence
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0226-invert-binary-tree) |
@@ -305,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0226-invert-binary-tree) |
