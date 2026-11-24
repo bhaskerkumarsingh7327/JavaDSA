@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0146-lru-cache](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0383-ransom-note) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0981-time-based-key-value-store](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0981-time-based-key-value-store) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0125-valid-palindrome) |
+| [0208-implement-trie-prefix-tree](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -359,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
