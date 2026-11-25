@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0139-word-break](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0242-valid-anagram) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0242-valid-anagram) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0139-word-break](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0300-longest-increasing-subsequence) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0072-edit-distance) |
+| [0139-word-break](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0322-coin-change) |
@@ -214,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0139-word-break) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -365,5 +370,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0208-implement-trie-prefix-tree) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/bhaskerkumarsingh7327/JavaDSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
